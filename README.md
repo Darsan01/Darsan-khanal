@@ -151,13 +151,6 @@ API runs on `http://localhost:5000`
 
 ## Admin Access
 
-Default admin credentials:
-- **Email**: `admin@darsan.dev`
-- **Password**: `admin123`
-
-**Change these immediately in production!**
-
-Admin panel: `/admin`
 
 ## Environment Variables
 
